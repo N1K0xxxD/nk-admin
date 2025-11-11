@@ -1,7 +1,14 @@
 {
-    "version": "1.6.5",
+    "version": "0.2.7",
     "changelog": [
-        "Your changelog here"
+        "Added admin panel with player management",
+        "Added vehicle spawner",
+        "Added noclip functionality",
+        "Added reports system",
+        "Added Logs System",
+        "Added Ban System",
+        "Added Command Teleport",
+        "Added Command Noclip",
     ],
-    "download": "https://github.com/N1K0xxxD/nk-admin"
+    "download": ""
 }
